@@ -30,7 +30,6 @@ public class SecondActivity extends AppCompatActivity {
                 finish();
             }
 
-
         });
     }
 }
